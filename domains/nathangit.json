@@ -1,0 +1,11 @@
+{
+    "description": "Personal website hosting",
+    "repo": "https://github.com/nathanatgit/nathanatgit.github.io",
+    "owner": {
+        "username": "nathanatgit",
+        "email": "hanguangyao@tju.edu.cn"
+    },
+    "record": {
+        "CNAME": "nathanatgit.github.io"
+    }
+}
